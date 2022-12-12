@@ -45,10 +45,7 @@ public class ShapeObjects {
 
         System.out.println(circle.getName());
 
-
-
-
-
+      
 
     }
 
