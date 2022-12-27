@@ -17,7 +17,7 @@ public class UniqueChars {
 
                //index of first char                  last index of first char
             if(word.indexOf(word.charAt(i))==word.lastIndexOf(word.charAt(i))){
-                unique+=ch;
+                unique+=ch+" ";
             }
 
         }System.out.println(unique);
