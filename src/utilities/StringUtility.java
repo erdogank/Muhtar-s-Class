@@ -40,8 +40,8 @@ public class StringUtility {
         }
 
 
-        //removes the dublicates from any given string
-    public static String removeDublicates(String str){
+        //removes the duplicates from any given string
+    public static String removeDuplicates(String str){
 
 
         String result = "";

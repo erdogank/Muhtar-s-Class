@@ -34,8 +34,8 @@ public class study {
                 mostFreqNum = array[i];
             }
         }
-        System.out.println(mostFreqNum);
-        System.out.println(count2);
+        System.out.println("Most frequent number is: "+mostFreqNum+" and it's occurrence is "+ count2+" times");
+
     }
 }
 
